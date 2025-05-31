@@ -39,6 +39,8 @@ It integrates multiple intelligent services including document Q&A, image analys
 
 ##  📦 Folder Structure
 
+
+```
 jarvis-assistant/
 ├── modules/
 │ ├── llm/ # Core OpenAI GPT wrapper + prompt routing
@@ -55,6 +57,7 @@ jarvis-assistant/
 ├── .env.example # Environment config template
 ├── run_jarvis.py # Entry point for launching the assistant
 └── requirements.txt # Python dependencies
+```
 
 ---
 
