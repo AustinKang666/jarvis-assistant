@@ -10,7 +10,7 @@ It integrates multiple intelligent services including document Q&A, image analys
 - 🔎 **RAG-based Document QA** — uses vector store to answer document-based questions  
 - 🖼️ **Image Analysis Module** — interprets uploaded images with vision-language prompting  
 - 📈 **Stock Market Querying** — retrieves real-time financial data  
-- 🔊 **Voice Interaction** — includes ASR (Whisper) for input and TTS (tts-1, Elevenlabs) for output  
+- 🔊 **Voice Interaction** — includes ASR (Whisper) and TTS (tts-1, Elevenlabs) 
 - 🌐 **Web Search Integration** — supports fallback search using real-time web API  
 - 🛡️ **Response Safety Filtering** — implements rule-based content moderation logic  
 - 🧠 **Modular LLM Core** — centralized prompt routing, function calling, and context-aware handling  
