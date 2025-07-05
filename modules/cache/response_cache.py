@@ -51,6 +51,7 @@ class ResponseCache:
         # 設定快取相關參數
         self.similarity_threshold = similarity_threshold
         self.cache_ttl = timedelta(days=cache_ttl_days)
+        self.question_vectors = {}
         
         # 載入快取
         self.cache_data = self._load_cache()

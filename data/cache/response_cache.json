@@ -1,28 +1,14 @@
 {
-  "7eca689f0d3389d9dea66ae112e5cfd7": {
-    "question": "你好",
-    "response": "你好！有什麼我可以幫助你的嗎？",
+  "55cf276862bd14e728349422cb56bacb": {
+    "question": "可以跟我說今天的日期是幾號嗎?",
+    "response": "今天是2023年10月4日。",
     "source_type": "direct",
-    "timestamp": "2025-04-12T22:16:34.220179",
-    "last_accessed": "2025-04-12T22:16:34.220179",
+    "timestamp": "2025-07-05T19:37:53.577871",
+    "last_accessed": "2025-07-05T19:37:53.577871",
     "access_count": 1,
     "metadata": {
-      "conversation_id": "7cff0c84-8ebb-496a-8221-f0a2e679b732",
-      "timestamp": "2025-04-12T22:16:34.220179",
-      "use_rag": true,
-      "use_web_search": false
-    }
-  },
-  "68d309812548887400e375eaa036d2f1": {
-    "question": "2317",
-    "response": "請問您提到的「2317」是指什麼呢？它可能是股票代碼、數字、年份或其他。請提供更多上下文，我將更好地協助您。",
-    "source_type": "direct",
-    "timestamp": "2025-04-12T22:32:51.145736",
-    "last_accessed": "2025-04-12T22:32:51.145736",
-    "access_count": 1,
-    "metadata": {
-      "conversation_id": "67a7d2d8-01da-4b56-9560-86ed495dfed1",
-      "timestamp": "2025-04-12T22:32:51.145736",
+      "conversation_id": "7d5e4ead-825d-4b6b-8132-0d6e381d244d",
+      "timestamp": "2025-07-05T19:37:53.577871",
       "use_rag": true,
       "use_web_search": false
     }
