@@ -7,3 +7,9 @@
 
 # 忽略所有單獨的 .pyc 檔案
 **/*.pyc
+
+# Cache files
+data/cache/
+data/images/
+*.json
+*.npy
