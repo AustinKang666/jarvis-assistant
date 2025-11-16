@@ -8,6 +8,9 @@ import logging  # 匯入日誌模組，用於輸出系統訊息（info、debug�
 import yfinance as yf  # ✅ 匯入 Yahoo Finance 套件並簡寫為 yf，可用來抓取股市資料（歷史價格、即時數據等）
 from typing import Tuple
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # 👉 以下為 llama-index（前稱 GPT Index）相關匯入，支援 Function Calling Agent 架構
 from llama_index.core.agent import FunctionCallingAgentWorker  # ✅ 建立具備 Function Calling 能力的 agent 工作者，可呼叫定義好的 tool 函式
 from llama_index.core.tools import FunctionTool  # ✅ 將 Python 函式封裝成可被 LLM 呼叫的工具（Tool），供 Agent 使用
